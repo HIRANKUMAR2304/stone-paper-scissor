@@ -23,7 +23,6 @@
         p{
             font-size: 14px;
             color: rgb(21, 21, 21);
-            background-color: lightgray;
             padding: 5px;
             border-radius: 5px;
             width: 250px;
@@ -35,4 +34,5 @@
         #scoreDisplay{
             margin-top: 20px;
             font-weight: bold;
+
         }
